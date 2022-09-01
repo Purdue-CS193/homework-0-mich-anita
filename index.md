@@ -1,3 +1,7 @@
+# Anita Michlitsch's First CS193 Homework
+ - I like how social it is
+ - I like how practical the focus is
+ - I like how the grade is heavily participation based
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
